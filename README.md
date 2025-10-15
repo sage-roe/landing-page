@@ -22,7 +22,10 @@ This project is a responsive landing page that highlights the tourism attraction
 ## Design Concept
 The theme is inspired by the **coastal beauty and vibrant culture of Mabini**. The color palette combines ocean blues, natural hues, and warm tones to reflect its diving heritage and welcoming community. Typography uses **Poppins** for headlines and **Nunito Sans** for readability.
 
-## Installation and Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/mabini-tourism-landing-page.git
+## Project Objective
+To design and develop a modern, visually engaging, and user-friendly landing page that promotes Mabini, Batangas as a top travel destination by combining tourism information, cultural highlights, and interactive features.
+
+## Author
+Developed by Jyeana Mauhay
+BSIT Student, Batangas State University – Mabini Campus
+   
